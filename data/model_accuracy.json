@@ -1,1 +1,1 @@
-{"bow": 0.84756, "tf-idf": 0.87888}
+{"bow": 0.84756, "tf-idf": 0.87888, "lstm-pretrained": 0.8877599835395813, "lstm-pretrained-fixed": 0.84552001953125, "bi-lstm-pretrained": 0.8730000257492065, "stacked-bi-lstm-pretrained": 0.8942000269889832, "CNN": 0.8573600053787231}
